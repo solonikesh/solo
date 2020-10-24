@@ -1,0 +1,2 @@
+# solo
+Print ("Hello world")
